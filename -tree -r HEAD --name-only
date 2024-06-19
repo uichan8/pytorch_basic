@@ -1,0 +1,83 @@
+[33mcommit afd892daeb3ff973fc17c07372de8a72ccac81ca[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Wed Jun 19 22:31:44 2024 +0900
+
+    add wgan
+
+[33mcommit f0ccfd1f604141a37be84cf40a1eefec7abb08ee[m
+Author: Your Name <you@example.com>
+Date:   Sat Jun 8 23:13:01 2024 +0900
+
+    add DCGAN
+
+[33mcommit 7f19ef308ba3e70300629a49283b40b501e1464b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Mon Apr 22 12:15:36 2024 +0900
+
+    change directory
+
+[33mcommit e6d3df6850c689ff66fde444102acc54ede67aae[m
+Author: uichan <87987154+uichan8@users.noreply.github.com>
+Date:   Tue Apr 4 19:58:41 2023 +0900
+
+    Update README.md
+
+[33mcommit 972e6c05d854cf0434dc592a7ed94cbe1ddb8e07[m
+Author: uichan <87987154+uichan8@users.noreply.github.com>
+Date:   Tue Apr 4 19:58:29 2023 +0900
+
+    Create README.md
+
+[33mcommit 6eb106c546d9588b5d706d6d9796099bb8b3d393[m
+Author: uichan8@naver.com <uichan8@naver.com>
+Date:   Mon Dec 26 15:56:21 2022 +0900
+
+    debug
+
+[33mcommit 2e54bec87bbb3c991ca68983a9b9e0fff227c585[m
+Author: uichan <uichan8@naver.com>
+Date:   Mon Aug 29 19:47:30 2022 +0900
+
+    add managements
+
+[33mcommit 2ffa9cace33c3b36763abd4c7cb2f5935266eaa3[m
+Author: uichan <uichan8@naver.com>
+Date:   Sat Aug 27 17:44:14 2022 +0900
+
+    add augmentation
+
+[33mcommit aa45f284f5340b6ef58c15b63622fcd298ac110c[m
+Author: uichan <uichan8@naver.com>
+Date:   Fri Aug 26 18:02:32 2022 +0900
+
+    updates dataset files
+
+[33mcommit cda929c74c416b008126606ce72453b9104d007f[m
+Author: uichan <uichan8@naver.com>
+Date:   Fri Aug 26 00:34:44 2022 +0900
+
+    temp
+
+[33mcommit df2df3e01dbee2bb9409a59affae4fc73ccdf9e5[m
+Author: uichan <uichan8@naver.com>
+Date:   Mon Aug 15 07:27:10 2022 +0900
+
+    updates
+
+[33mcommit 1289ded81b4ebc440343004a840ff0606e415e29[m
+Author: uichan <uichan8@naver.com>
+Date:   Thu Aug 11 20:58:23 2022 +0900
+
+    update rnn code
+
+[33mcommit ffe1f128c0c655183409732c0bccbaa945a9eee9[m
+Author: uichan <uichan8@naver.com>
+Date:   Wed Aug 3 23:51:35 2022 +0900
+
+    add cnn ipynb
+
+[33mcommit a40499e0e5d77e177ee5feb65d881355b11f3606[m
+Author: uichan <uichan8@naver.com>
+Date:   Wed Aug 3 19:50:50 2022 +0900
+
+    first init
