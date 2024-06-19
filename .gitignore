@@ -3,6 +3,7 @@
 Data/
 Result/
 wandb/
+temp*
 
 # Python bytecode
 __pycache__/
