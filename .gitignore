@@ -1,6 +1,7 @@
 # 개인적으로 안올리는 파일
 
 Data/
+Pretrained/
 Result/
 wandb/
 temp*
